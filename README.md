@@ -1,5 +1,4 @@
 ***The official release for the Pigeon Mod Launcher! A tutorial text on how to install and use it is included below as well!***
-*(Updated Version 1.2)*
 
 **Launcher install**
 1. download the zip file
