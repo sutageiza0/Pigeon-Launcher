@@ -7,5 +7,6 @@
 4. add the location of your steam install of R&A to the bottom selector
 
 **Using the launcher**
-1. click install mods
+1. click 'install mods'
 2. select the .zip or .rar file that has the mod you want to install
+3. toggle which mods you load into the game by clicking 'mod toggles'
