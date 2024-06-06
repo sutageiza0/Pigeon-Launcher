@@ -10,3 +10,5 @@
 1. click 'install mods'
 2. select the .zip or .rar file that has the mod you want to install
 3. toggle which mods you load into the game by clicking 'mod toggles'
+
+( *KEEP IN MIND THAT CURRENTLY YOU CAN NOT TOGGLE MODS WHILE IN GAME, PLEASE CLOSE THE GAME BEFORE TOGGLING MODS ON AND OFF.* )
